@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactjs-daily-practice/static/css/main.b345cbab.chunk.css",
+    "main.js": "/reactjs-daily-practice/static/js/main.25125a02.chunk.js",
+    "main.js.map": "/reactjs-daily-practice/static/js/main.25125a02.chunk.js.map",
+    "runtime-main.js": "/reactjs-daily-practice/static/js/runtime-main.25da185f.js",
+    "runtime-main.js.map": "/reactjs-daily-practice/static/js/runtime-main.25da185f.js.map",
+    "static/js/2.61e3bd08.chunk.js": "/reactjs-daily-practice/static/js/2.61e3bd08.chunk.js",
+    "static/js/2.61e3bd08.chunk.js.map": "/reactjs-daily-practice/static/js/2.61e3bd08.chunk.js.map",
+    "index.html": "/reactjs-daily-practice/index.html",
+    "precache-manifest.862127c71d6550a8cbea96464faca466.js": "/reactjs-daily-practice/precache-manifest.862127c71d6550a8cbea96464faca466.js",
+    "service-worker.js": "/reactjs-daily-practice/service-worker.js",
+    "static/css/main.b345cbab.chunk.css.map": "/reactjs-daily-practice/static/css/main.b345cbab.chunk.css.map",
+    "static/js/2.61e3bd08.chunk.js.LICENSE": "/reactjs-daily-practice/static/js/2.61e3bd08.chunk.js.LICENSE",
+    "static/media/img1.png": "/reactjs-daily-practice/static/media/img1.1a2a4a6b.png",
+    "static/media/img2.png": "/reactjs-daily-practice/static/media/img2.579de8a3.png",
+    "static/media/img3.png": "/reactjs-daily-practice/static/media/img3.2093a58e.png",
+    "static/media/img4.png": "/reactjs-daily-practice/static/media/img4.e421e0ff.png",
+    "static/media/img5.png": "/reactjs-daily-practice/static/media/img5.112ef05f.png",
+    "static/media/img6.png": "/reactjs-daily-practice/static/media/img6.3711527b.png",
+    "static/media/minimo.jpg": "/reactjs-daily-practice/static/media/minimo.16d1144c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25da185f.js",
+    "static/js/2.61e3bd08.chunk.js",
+    "static/css/main.b345cbab.chunk.css",
+    "static/js/main.25125a02.chunk.js"
+  ]
+}
